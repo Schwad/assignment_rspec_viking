@@ -1,0 +1,11 @@
+GEM
+  remote: https://rubygems.org/
+  specs:    
+    guard (2.11.1)
+    guard-compat (1.2.1)
+    guard-rspec (4.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
